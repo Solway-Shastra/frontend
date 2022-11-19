@@ -18,7 +18,8 @@ export default function Hero() {
 
 const HeroSection = styled.section`
   background: linear-gradient(to bottom, #0a0c2c80 3rem, transparent 10rem),
-    url(/images/hero.jpg);
+    url(/images/back.jpg
+);
   background-position: center, bottom left;
   background-size: cover, cover;
   height: fit-content;
