@@ -44,14 +44,14 @@ export const live = {
 };
 
 export const places = [
-  { name: "Bengaluru", time: 3 },
-  { name: "Puducherry", time: 3 },
-  { name: "Kodaikannal", time: 3.5 },
-  { name: "Mysuru", time: 4 },
-  { name: "Chennai", time: 4.5 },
-  { name: "Kochi", time: 6 },
+  { name: "Bali", time: 3 },
+  { name: "MountainView", time: 3 },
+  { name: "CapeTown", time: 3.5 },
+  { name: "Dubai", time: 4 },
+  { name: "Utah", time: 4.5 },
+  { name: "Gulmarg", time: 6 },
   { name: "Ooty", time: 3.5 },
-  { name: "Trivandrum", time: 7.5 },
+  { name: "Sikkim", time: 7.5 },
 ];
 
 export const resultImages = [
