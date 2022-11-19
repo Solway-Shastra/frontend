@@ -12,7 +12,7 @@ export const PhantomConnect = ({ publicKey, className }) => {
       connectToPhantom()
     } else {
     }
-  }, [])
+  }, [phantom])
 
   useEffect(() => {
     if (phantom) {
