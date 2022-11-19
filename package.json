@@ -10,6 +10,11 @@
   },
   "dependencies": {
     "@react-hook/media-query": "^1.1.1",
+    "@solana/wallet-adapter-base": "^0.9.18",
+    "@solana/wallet-adapter-react": "^0.15.24",
+    "@solana/wallet-adapter-react-ui": "^0.9.22",
+    "@solana/wallet-adapter-wallets": "^0.19.5",
+    "@solana/web3.js": "^1.66.2",
     "date-fns": "^2.23.0",
     "geolib": "^3.3.1",
     "next": "11.1.1",
