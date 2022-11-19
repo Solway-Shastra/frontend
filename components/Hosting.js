@@ -9,7 +9,7 @@ export default function Hosting() {
         <p>
           Earn extra income and unlock new oppurtunities by sharing your space.
         </p>
-        <Link href="#" className="btn btn-light">
+        <Link href="/" className="btn btn-light">
           Learn more
         </Link>
       </span>

@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="heroInner">
         <span>
           <h1>Find Best places to stay in your area!</h1>
-          <Link href="#" className="btn btn-light">
+          <Link href="/" className="btn btn-light">
             Find Now
           </Link>
         </span>
