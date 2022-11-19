@@ -28,8 +28,8 @@ export default function Map({
   return (
     <MapContainer ref={containerRef}>
       <ReactMapGL
-        mapStyle="mapbox://styles/santdas36/cks0kblsg0vyx17qw3jc0vqtv"
-        mapboxApiAccessToken="pk.eyJ1Ijoic2FudGRhczM2IiwiYSI6ImNrZzBlNG9mcDJncXoyeXM4enY2ZjZmeXgifQ.1nUvNLjy9AS8sDvCRJnvNg"
+        mapStyle="mapbox://styles/santdas36/xxx"
+        mapboxApiAccessToken="xxx"
         {...viewport}
         width="100%"
         height="100%"
