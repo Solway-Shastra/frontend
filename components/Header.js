@@ -192,7 +192,7 @@ export default function Header({ placeholder }) {
         )}
 
         <div className="profile">
-          <a href="#">Become a host</a>
+          <a href="#">Rent</a>
           <ThemeToggle icon />
           <a href="#" className="globe">
             <Globe />
