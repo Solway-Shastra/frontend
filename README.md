@@ -8,7 +8,7 @@
     <br />
     <i>~ Currently Under Development ~</i>
     <br />
-    <a href="/"><strong>visit</strong></a>
+    <a href="https://shastra-solinn.vercel.app"><strong>visit</strong></a>
     <br />
     <br />
   </p>
