@@ -1,7 +1,6 @@
 /* eslint-disable react/no-unknown-property */
 /* eslint-disable @next/next/no-img-element */
-import React, { useEffect } from 'react';
-import '..styles/globals.css';
+import React, { useEffect } from 'react'
 
 
 const App = () => {
