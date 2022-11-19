@@ -50,7 +50,7 @@ export default function SearchResults({
 
         <div className="navigation">
           <button className="prev" aria-label="previous">
-            <ArrowLeft />
+            <LinkrrowLeft />
           </button>
           <span className="active">1</span>
           <span>2</span>
@@ -59,7 +59,7 @@ export default function SearchResults({
           <span>8</span>
           <span>9</span>
           <button className="next" aria-label="next">
-            <ArrowRight />
+            <LinkrrowRight />
           </button>
         </div>
       </div>
