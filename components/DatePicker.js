@@ -34,7 +34,7 @@ export default function DatePicker({
   }
 
   const options = {
-    rangeColors: ["#e0565b"],
+    rangeColors: ["#9165eb"],
     ranges: [selectionRange],
     minDate: new Date(),
     onChange: handleSelect,

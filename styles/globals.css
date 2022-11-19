@@ -7,11 +7,11 @@
 }
 
 :root {
-  --red: #e0565b;
+  --red: #9165eb;
   --yellow: #ffffd6;
   --dark: #2e2e48;
   --brown: #3f3f1a;
-  --light: #fafafc;
+  --light: #e6e6ff;
   --gray: #efeff5;
   --white: #fff;
   --sidePadding: 3rem;
@@ -19,13 +19,13 @@
   --containerWidth: 1200px;
 }
 body.dark {
-  --dark: #fafafc;
+  --dark: #e6e6ff;
   --white: #112;
   --light: #1e1e38;
   --gray: #002;
 }
 body.dark section.light {
-  --light: #fafafc;
+  --light: #e6e6ff;
   --dark: #2e2e48;
 }
 body.dark .mapboxgl-popup {

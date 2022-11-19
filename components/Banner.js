@@ -19,7 +19,7 @@ const BannerSection = styled.section`
   background: url(/images/banner.jpg);
   background-size: cover;
   border-radius: 1rem;
-  color: var(--brown);
+  color: var(--violet);
   span {
     display: flex;
     flex-direction: column;
@@ -33,7 +33,7 @@ const BannerSection = styled.section`
     font-weight: 800;
   }
   .btn.btn-dark {
-    --bgcolor: var(--brown);
+    --bgcolor: var(--violet);
     --color: var(--yellow);
   }
 
