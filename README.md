@@ -19,7 +19,7 @@
 </p>
     <br />
 
-# Why Sol-Inn?
+# Why Solway?
 
 ## Issues while checking in: 
 One of the big issues while hotel booking is the verification of identity while checking in to the hotel. This effective DApp completely eliminates the need to do an identity verification while offline check-in. This solves the problem of misuse of personal records by the Hotel Management.
