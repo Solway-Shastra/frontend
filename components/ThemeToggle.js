@@ -10,10 +10,10 @@ const ThemeToggle = ({ text, icon, className }) => {
   useEffect(() => {
     if (isDark) {
       document.body.classList.add("dark");
-      window.localStorage.setItem("SolInnTheme", "dark");
+      window.localStorage.setItem("SolwayTheme", "dark");
     } else {
       document.body.classList.remove("dark");
-      window.localStorage.setItem("SolInnTheme", "light");
+      window.localStorage.setItem("SolwayTheme", "light");
     }
   }, [isDark]);
 

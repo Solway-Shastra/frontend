@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     const setInitialTheme = `
-      const isDark = window.localStorage.getItem('SolInnTheme') ? (window.localStorage.getItem('SolInnTheme') === 'dark') : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const isDark = window.localStorage.getItem('SolwayTheme') ? (window.localStorage.getItem('SolwayTheme') === 'dark') : window.matchMedia('(prefers-color-scheme: dark)').matches;
       if (isDark) {
         document.body.classList.add('dark');
       }

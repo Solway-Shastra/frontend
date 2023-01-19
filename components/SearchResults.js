@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import { useRouter } from "next/router";
 import { format } from "date-fns";
+import Link from 'next/link'
 import Image from "next/image";
 import ResultCard from "./ResultCard";
 import { resultImages } from "../data";
@@ -50,7 +51,7 @@ export default function SearchResults({
 
         <div className="navigation">
           <button className="prev" aria-label="previous">
-            <LinkrrowLeft />
+            <Link />
           </button>
           <span className="active">1</span>
           <span>2</span>
@@ -59,7 +60,7 @@ export default function SearchResults({
           <span>8</span>
           <span>9</span>
           <button className="next" aria-label="next">
-            <LinkrrowRight />
+            <Link />
           </button>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Image from "next/image";
+import Link from 'next/link'
 import { Globe, DollarSign, Facebook, Twitter, Instagram } from "react-feather";
 import ThemeToggle from "./ThemeToggle";
 
@@ -10,14 +11,14 @@ export default function Footer() {
         <span>
           <h2>About</h2>
           <ul>
-            <li>How SolInn works</li>
+            <li>How Solway works</li>
             <li>Newsroom</li>
-            <li>SolInn 2021</li>
+            <li>Solway 2021</li>
             <li>Investors</li>
-            <li>SolInn Plus</li>
-            <li>SolInn Luxe</li>
+            <li>Solway Plus</li>
+            <li>Solway Luxe</li>
             <li className="lg-hidden">HotelTonight</li>
-            <li className="lg-hidden">SolInn for Work</li>
+            <li className="lg-hidden">Solway for Work</li>
             <li className="lg-hidden">Made possible by Hosts</li>
             <li className="lg-hidden">Careers</li>
             <li className="lg-hidden">Founders&apos; Letter</li>
@@ -28,10 +29,10 @@ export default function Footer() {
           <ul>
             <li>Diversity & Belonging</li>
             <li>Accessibility</li>
-            <li>SolInn Associates</li>
+            <li>Solway Associates</li>
             <li>Frontline Stays</li>
             <li>Guest Referrals</li>
-            <li>SolInn.org</li>
+            <li>Solway.org</li>
           </ul>
         </span>
         <span>

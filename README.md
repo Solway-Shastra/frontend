@@ -1,4 +1,4 @@
-# SolInn
+# Solway
 
 <p align="center">
    <img width="140" height="140" src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/logo.png" alt="Logo">
@@ -8,7 +8,7 @@
     <br />
     <i>~ Currently Under Development ~</i>
     <br />
-    <a href="https://shastra-solinn.vercel.app"><strong>visit</strong></a>
+    <a href="https://shastra-Solway.vercel.app"><strong>visit</strong></a>
     <br />
     <br />
   </p>
