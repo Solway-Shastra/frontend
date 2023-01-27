@@ -9,7 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
     "@react-hook/media-query": "^1.1.1",
+    "@solana/pay": "^0.2.4",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.73.0",
+    "@streamflow/stream": "^3.0.17",
+    "bignumber.js": "^9.1.1",
     "date-fns": "^2.23.0",
     "geolib": "^3.3.1",
     "next": "^13.1.2",
