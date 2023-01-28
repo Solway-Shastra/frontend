@@ -7,7 +7,7 @@ export default function Hero() {
     <HeroSection className="light hero">
       <div className="heroInner">
         <span>
-          <h1>Find Best places to stay in your area!</h1>
+          <h1>Discover the world, stress-free with Solway</h1>
           <Link href="/" className="btn btn-light">
             Find Now
           </Link>

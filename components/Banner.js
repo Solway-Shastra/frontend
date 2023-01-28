@@ -6,7 +6,7 @@ export default function Banner() {
   return (
     <BannerSection>
       <span>
-        <h2>Not sure where to go? Perfect.</h2>
+        <h2>Discover the world, stress-free with Solway</h2>
         <Link href="/" className="btn btn-dark">
           {"I'm flexible"}
         </Link>

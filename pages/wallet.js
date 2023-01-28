@@ -3,7 +3,7 @@
 import React, { useEffect } from 'react'
 
 
-const App = () => {
+const SolApp = () => {
   const checkIfWalletIsConnected = async () => {
     if (window?.solana?.isPhantom) {
       console.log('Phantom wallet found!');
@@ -34,4 +34,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default SolApp;
