@@ -11,11 +11,9 @@
   "dependencies": {
     "@project-serum/anchor": "^0.26.0",
     "@react-hook/media-query": "^1.1.1",
+    "@solana/wallet-adapter-react-ui": "^0.9.27",
+    "@solana/wallet-adapter-wallets": "^0.19.11",
     "@solana/web3.js": "^1.66.2",
-    "@web3auth/base": "^4.2.4",
-    "@web3auth/core": "^4.2.4",
-    "@web3auth/modal": "^4.2.4",
-    "@web3auth/ui": "^4.2.4",
     "bignumber.js": "^9.1.1",
     "date-fns": "^2.23.0",
     "geolib": "^3.3.1",
