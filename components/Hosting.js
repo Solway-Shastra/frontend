@@ -47,7 +47,7 @@ const HostingSection = styled.section`
 
   @media (max-width: 36rem) {
     aspect-ratio: 0.75;
-    background: url(images/host-sm.jpg);
+    background: url(images/host-sm.jpeg);
     background-size: cover;
     background-position: center;
     position: relative;
