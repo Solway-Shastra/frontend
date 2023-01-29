@@ -30,6 +30,7 @@
     "@typescript-eslint/typescript-estree": "^5.48.2",
     "eslint": "7.32.0",
     "eslint-config-next": "11.0.1",
+    "install-peers": "^1.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-is": ">= 16.8.0",
