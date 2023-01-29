@@ -11,11 +11,9 @@
   "dependencies": {
     "@project-serum/anchor": "^0.26.0",
     "@react-hook/media-query": "^1.1.1",
+    "@solana/wallet-adapter-react-ui": "^0.9.27",
+    "@solana/wallet-adapter-wallets": "^0.19.11",
     "@solana/web3.js": "^1.66.2",
-    "@web3auth/base": "^4.2.4",
-    "@web3auth/core": "^4.2.4",
-    "@web3auth/modal": "^4.2.4",
-    "@web3auth/ui": "^4.2.4",
     "bignumber.js": "^9.1.1",
     "date-fns": "^2.23.0",
     "geolib": "^3.3.1",
@@ -28,10 +26,12 @@
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
+    "@types/react": "18.0.27",
     "@typescript-eslint/parser": "^5.48.2",
     "@typescript-eslint/typescript-estree": "^5.48.2",
     "eslint": "7.32.0",
     "eslint-config-next": "11.0.1",
+    "install-peers": "^1.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-is": ">= 16.8.0",

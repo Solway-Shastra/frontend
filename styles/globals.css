@@ -95,6 +95,12 @@ section h2 {
   font-size: 1.75rem;
 }
 
+.walletButtons {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 2rem;
+}
+
 #nprogress .bar {
   background: var(--red);
 }
