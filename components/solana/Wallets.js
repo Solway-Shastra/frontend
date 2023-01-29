@@ -8,8 +8,8 @@ import styles from '../../styles/Home.module.css';
 const WalletButtons = () => {
   return (
     <div className={styles.walletButtons}>
-      <WalletMultiButton />
-      <WalletDisconnectButton />
+      <WalletMultiButtonDynamic />
+      <WalletDisconnectButtonDynamic />
     </div>
   );
 }
