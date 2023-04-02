@@ -29,8 +29,8 @@ function Header({ connected, publicKey, initializeUser , initialized, transactio
 
             <div className="flex items-center justify-end">
                 <div className="border border-transparent cursor-pointer hover:bg-gray-100 rounded-full px-3 py-2">
-                    <a className="text-sm font-medium transition-all duration-300 text-gray-800" href="#">
-                        Become a Host
+                    <a className="text-sm font-medium transition-all duration-300 text-gray-800" href="https://gpt-travel-advisor-two.vercel.app/">
+                        Plan with GPT
                     </a>
                 </div>
 
